@@ -1,5 +1,13 @@
 package javafundamentals;
 import java.util.Scanner;
+
+/**
+ * @email: subiarubin72@gmail.com
+ * @id: subiarubin
+ * @author TSSVJA
+ *
+ */
+
 public class Pattern3 {
 
 	public static void main(String[] args) {
